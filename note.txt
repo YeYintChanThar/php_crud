@@ -1,0 +1,4 @@
+C/Xampp/htdocs/php_crud
+
+Database
+table - posts
